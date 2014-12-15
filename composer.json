@@ -1,5 +1,5 @@
 {
-    "name": "prism/poll-bundle",
+    "name": "wantim/poll-bundle",
     "type": "symfony-bundle",
     "description": "A simple poll bundle for symfony2",
     "keywords": ["poll", "question", "vote"],
